@@ -17,6 +17,12 @@
   <img align="center" alt="Borges-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Borges-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<div>
+  <br>
+  <img align="center" alt="Borges-Docker" height="30" width="40" src="https://www.svgrepo.com/show/354926/docker.svg">
+  <img align="center" alt="Borges-Apache-Airflow" height="30" width="40" src="https://www.svgrepo.com/show/353380/airflow.svg">
+</div>
   
   ##
  
