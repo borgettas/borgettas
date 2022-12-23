@@ -1,10 +1,12 @@
-## Welcome to my profile 🤘🏻
-
+<h3>
+  Welcome to my profile 🤘🏻
+</h3>
+  
 <br>
 <div align="center">
   <a href="https://github.com/borgettas">
-  <img height="160em" width="47%" src="https://github-readme-stats.vercel.app/api?username=borgettas&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_title=true"/>
-  <img height="160em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgettas&layout=compact&langs_count=7&theme=gruvbox&hide_title=true"/>
+  <img height="150em" width="47%" src="https://github-readme-stats.vercel.app/api?username=borgettas&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_title=true"/>
+  <img height="150em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgettas&layout=compact&langs_count=7&theme=gruvbox&hide_title=true"/>
 </div>
   
 <div>
